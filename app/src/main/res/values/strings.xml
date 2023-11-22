@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LamBaoChauImageCW2</string>
+    <string name="forward">forward</string>
+    <string name="backward">backward</string>
+</resources>
